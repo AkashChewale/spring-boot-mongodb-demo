@@ -14,7 +14,7 @@
 	<name>spring-boot-mongodb</name>
 	<description>Demo project for mongodb CRUD.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
